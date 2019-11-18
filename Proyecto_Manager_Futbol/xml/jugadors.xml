@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><jugadors>
+	<jugador id_jugador="1">
+		<nom_jugador>Leo Messi</nom_jugador>
+		<posicio>Davanter</posicio>
+		<id_equip>1</id_equip>
+		<nom_equip>Barcelona</nom_equip>
+	</jugador>
+	<jugador id_jugador="2">
+		<nom_jugador>Ansu Fati</nom_jugador>
+		<posicio>Davanter</posicio>
+		<id_equip>1</id_equip>
+		<nom_equip>Barcelona</nom_equip>
+	</jugador>
+	<jugador id_jugador="3">
+		<nom_jugador>Arturo Vidal</nom_jugador>
+		<posicio>Migcampista</posicio>
+		<id_equip>1</id_equip>
+		<nom_equip>Barcelona</nom_equip>
+	</jugador>
+	<jugador id_jugador="4">
+		<nom_jugador>Gerard Pique</nom_jugador>
+		<posicio>Defensa</posicio>
+		<id_equip>1</id_equip>
+		<nom_equip>Barcelona</nom_equip>
+	</jugador>
+	<jugador id_jugador="5">
+		<nom_jugador>Ter Stegen</nom_jugador>
+		<posicio>Porter</posicio>
+		<id_equip>1</id_equip>
+		<nom_equip>Barcelona</nom_equip>
+	</jugador>
+	<jugador id_jugador="6">
+		<nom_jugador>Eden Hazard</nom_jugador>
+		<posicio>Davanter</posicio>
+		<id_equip>2</id_equip>
+		<nom_equip>Real Madrid</nom_equip>
+	</jugador>
+	<jugador id_jugador="7">
+		<nom_jugador>Thibaut Courtois</nom_jugador>
+		<posicio>Porter</posicio>
+		<id_equip>2</id_equip>
+		<nom_equip>Real Madrid</nom_equip>
+	</jugador>
+	<jugador id_jugador="8">
+		<nom_jugador>Luka Modric</nom_jugador>
+		<posicio>Migcampista</posicio>
+		<id_equip>2</id_equip>
+		<nom_equip>Real Madrid</nom_equip>
+	</jugador>
+	<jugador id_jugador="9">
+		<nom_jugador>Toni Kroos</nom_jugador>
+		<posicio>Migcampista</posicio>
+		<id_equip>2</id_equip>
+		<nom_equip>Real Madrid</nom_equip>
+	</jugador>
+	<jugador id_jugador="10">
+		<nom_jugador>Sergio Ramos</nom_jugador>
+		<posicio>Defensa</posicio>
+		<id_equip>2</id_equip>
+		<nom_equip>Real Madrid</nom_equip>
+	</jugador>
+	<jugador id_jugador="11">
+		<nom_jugador>Diego Costa</nom_jugador>
+		<posicio>Davanter</posicio>
+		<id_equip>3</id_equip>
+		<nom_equip>Atletico</nom_equip>
+	</jugador>
+	<jugador id_jugador="12">
+		<nom_jugador>Joao Felix</nom_jugador>
+		<posicio>Davanter</posicio>
+		<id_equip>3</id_equip>
+		<nom_equip>Atletico</nom_equip>
+	</jugador>
+	<jugador id_jugador="13">
+		<nom_jugador>Alvaro Morata</nom_jugador>
+		<posicio>Davanter</posicio>
+		<id_equip>3</id_equip>
+		<nom_equip>Atletico</nom_equip>
+	</jugador>
+	<jugador id_jugador="14">
+		<nom_jugador>Koke</nom_jugador>
+		<posicio>Migcampista</posicio>
+		<id_equip>3</id_equip>
+		<nom_equip>Atletico</nom_equip>
+	</jugador>
+	<jugador id_jugador="15">
+		<nom_jugador>Jan Oblak</nom_jugador>
+		<posicio>Porter</posicio>
+		<id_equip>3</id_equip>
+		<nom_equip>Atletico</nom_equip>
+	</jugador>
+	<jugador id_jugador="16">
+		<nom_jugador>Chicharito</nom_jugador>
+		<posicio>Davanter</posicio>
+		<id_equip>4</id_equip>
+		<nom_equip>Sevilla</nom_equip>
+	</jugador>
+	<jugador id_jugador="17">
+		<nom_jugador>Tomas Vaclik</nom_jugador>
+		<posicio>Porter</posicio>
+		<id_equip>4</id_equip>
+		<nom_equip>Sevilla</nom_equip>
+	</jugador>
+	<jugador id_jugador="18">
+		<nom_jugador>Ever Banega</nom_jugador>
+		<posicio>Migcampista</posicio>
+		<id_equip>4</id_equip>
+		<nom_equip>Sevilla</nom_equip>
+	</jugador>
+	<jugador id_jugador="19">
+		<nom_jugador>Lucas Ocampos</nom_jugador>
+		<posicio>Migcampista</posicio>
+		<id_equip>4</id_equip>
+		<nom_equip>Sevilla</nom_equip>
+	</jugador>
+	<jugador id_jugador="20">
+		<nom_jugador>Jesus Navas</nom_jugador>
+		<posicio>Defensa</posicio>
+		<id_equip>4</id_equip>
+		<nom_equip>Sevilla</nom_equip>
+	</jugador>
+	<jugador id_jugador="21">
+		<nom_jugador>Rodrigo Moreno</nom_jugador>
+		<posicio>Davanter</posicio>
+		<id_equip>5</id_equip>
+		<nom_equip>Valencia</nom_equip>
+	</jugador>
+	<jugador id_jugador="22">
+		<nom_jugador>Maxi Gomez</nom_jugador>
+		<posicio>Davanter</posicio>
+		<id_equip>5</id_equip>
+		<nom_equip>Valencia</nom_equip>
+	</jugador>
+	<jugador id_jugador="23">
+		<nom_jugador>Geoffrey Kondogbia</nom_jugador>
+		<posicio>Migcampista</posicio>
+		<id_equip>5</id_equip>
+		<nom_equip>Valencia</nom_equip>
+	</jugador>
+	<jugador id_jugador="24">
+		<nom_jugador>Dani Parejo</nom_jugador>
+		<posicio>Migcampista</posicio>
+		<id_equip>5</id_equip>
+		<nom_equip>Valencia</nom_equip>
+	</jugador>
+	<jugador id_jugador="25">
+		<nom_jugador>Jasper Cillessen</nom_jugador>
+		<posicio>Porter</posicio>
+		<id_equip>5</id_equip>
+		<nom_equip>Valencia</nom_equip>
+	</jugador>
+	<jugador id_jugador="26">
+		<nom_jugador>Martin Odegaard</nom_jugador>
+		<posicio>Davanter</posicio>
+		<id_equip>6</id_equip>
+		<nom_equip>Real Sociedad</nom_equip>
+	</jugador>
+	<jugador id_jugador="27">
+		<nom_jugador>Angel Moya</nom_jugador>
+		<posicio>Porter</posicio>
+		<id_equip>6</id_equip>
+		<nom_equip>Real Sociedad</nom_equip>
+	</jugador>
+	<jugador id_jugador="28">
+		<nom_jugador>Alexander Isak</nom_jugador>
+		<posicio>Davanter</posicio>
+		<id_equip>6</id_equip>
+		<nom_equip>Real Sociedad</nom_equip>
+	</jugador>
+	<jugador id_jugador="29">
+		<nom_jugador>Adnan Januzaj</nom_jugador>
+		<posicio>Migcampista</posicio>
+		<id_equip>6</id_equip>
+		<nom_equip>Real Sociedad</nom_equip>
+	</jugador>
+	<jugador id_jugador="30">
+		<nom_jugador>Nacho Monreal</nom_jugador>
+		<posicio>Defensa</posicio>
+		<id_equip>6</id_equip>
+		<nom_equip>Real Sociedad</nom_equip>
+	</jugador>	
+</jugadors>

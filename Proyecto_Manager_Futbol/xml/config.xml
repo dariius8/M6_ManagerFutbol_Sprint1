@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><configuracion>
+	<ruta_bd>jdbc:sqlite:../Proyecto_Manager_Futbol/bd/manager_futbol.db</ruta_bd>
+	<ruta_equips>..\\Proyecto_Manager_Futbol\\xml\\equips.xml</ruta_equips>
+	<ruta_jugadors>..\\Proyecto_Manager_Futbol\\xml\\jugadors.xml</ruta_jugadors>
+	<ruta_txt>..\\Proyecto_Manager_Futbol\\txt\\equip</ruta_txt>
+</configuracion>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><equips>
+	<equip id_equip="1">
+		<nom_equip>Barcelona</nom_equip>
+	</equip>
+	<equip id_equip="2">
+		<nom_equip>Real Madrid</nom_equip>
+	</equip>
+	<equip id_equip="3">
+		<nom_equip>Atletico</nom_equip>
+	</equip>
+	<equip id_equip="4">
+		<nom_equip>Sevilla</nom_equip>
+	</equip>
+	<equip id_equip="5">
+		<nom_equip>Valencia</nom_equip>
+	</equip>
+	<equip id_equip="6">
+		<nom_equip>Real Sociedad</nom_equip>
+	</equip>
+</equips>
